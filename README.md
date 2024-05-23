@@ -33,5 +33,5 @@ If you use this project, cite:
 
 You can download the code by:
 
-    git clone https://github.com/gabrieldgf4/insect-segmentation-dataset.git
-    cd insect-segmentation-dataset
+    git clone https://github.com/gabrieldgf4/tree-segmentation-dataset.git
+    cd tree-segmentation-dataset
