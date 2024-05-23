@@ -1,6 +1,6 @@
 # tree-segmentation-dataset
 
-The tree-segmentation-dataset contains images manually segmented from outdoor environments in areas with trees. The dataset also contains tree and ground image masks. Image segmentation is key in providing data to be analyzed, influencing overall success in understanding the image. When it comes to external scenes, the extraction of key features can be quite complex due to exposure to various adverse conditions, such as frequent changes in illumination that create artifacts like shading, photometric distortion, and noise. Thus, this dataset can be used to validate segmentation methods.
+The tree-segmentation-dataset contains images manually segmented from outdoor environments in areas with trees. The dataset also contains tree and ground image masks. Image segmentation is key in providing data to be analyzed, influencing overall success in understanding the image. When it comes to external scenes, the extraction of fundamental features can be quite complex due to exposure to various adverse conditions, such as frequent changes in illumination that create artifacts like shading, photometric distortion, and noise. Thus, this dataset can be used to validate segmentation methods.
 
 Original papers URL: 
 
@@ -29,9 +29,9 @@ If you use this project, cite:
     }
 
 
-![alt tag](https://user-images.githubusercontent.com/63321757/180873122-244e57c0-21e6-4990-9120-74d8df3f726a.png)
+![alt tag](https://github.com/gabrieldgf4/tree-segmentation-dataset/assets/63321757/6dde842a-ed1b-49f7-8a49-1b4d65cdcafa)
 
 You can download the code by:
 
-    git clone https://github.com/gabrieldgf4/insect-defoliation-dataset.git
-    cd insect-defoliation-dataset
+    git clone https://github.com/gabrieldgf4/insect-segmentation-dataset.git
+    cd insect-segmentation-dataset
